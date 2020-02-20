@@ -1,4 +1,4 @@
-#Piepefy UI Clone
+# Pipefy UI Clone
 
 ## Esse projeto foi realizado com o intuito de praticar meus conhecimentos acerca do desenvolvimento web com React JS, styled components e react-dnd.
 
