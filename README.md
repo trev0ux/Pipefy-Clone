@@ -1,3 +1,11 @@
+#Piepefy UI Clone
+
+## Esse projeto foi realizado com o intuito de praticar meus conhecimentos acerca do desenvolvimento web com React JS, styled components e react-dnd.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
